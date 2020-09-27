@@ -1,0 +1,12 @@
+#about-me{
+    background-image: url(/img/zane.jpg);
+    background-position: 50% 30%;
+    background-size: cover;
+    font-size: 3em;
+}
+#about-me p{
+    text-align: right;
+}
+.lead{
+    font-size: 1.5em;
+}
